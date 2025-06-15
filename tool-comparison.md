@@ -1,5 +1,5 @@
 @@ -0,0 +1,29 @@
-# Tool Comparison: GHAS vs. Snyk
+# Tool Comparison:GHAS vs.Snyk
 
 ## Tool: Snyk
 
